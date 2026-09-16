@@ -62,9 +62,11 @@ Research → information architecture → user flows → wireframes → prototyp
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/@lulamilemkhungela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to/@lulamilemkhungela" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/lulamile-mkhungela/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://chartreuse-scale-c4a.notion.site/lula-creatives-ux-resources-bookmarks-1e2962b93ef1809dbe07c896db79ad65" target="blank"><img src="https://img.shields.io/badge/Notion-Bookmarks-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion — UX Resources & Bookmarks" /></a>
+<a href="https://www.linkedin.com/in/lulamile-mkhungela/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://dev.to/@lulamilemkhungela" target="blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to" /></a>
+<a href="https://lulamilemkhungela.github.io/portfolio.github.io/" target="blank"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:mkhungela.l@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://chartreuse-scale-c4a.notion.site/lula-creatives-ux-resources-bookmarks-1e2962b93ef1809dbe07c896db79ad65" target="blank"><img src="https://img.shields.io/badge/Notion-Bookmarks-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion — UX Resources & Bookmarks" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
