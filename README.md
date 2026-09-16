@@ -7,18 +7,18 @@
 </p>
 
 <p align="center">
-<a href="https://lulamilemkhungela.github.io/portfolio.github.io/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/lulamile-mkhungela/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://dev.to/@lulamilemkhungela"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
-<a href="mailto:mkhungela.l@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://chartreuse-scale-c4a.notion.site/lula-creatives-ux-resources-bookmarks-1e2962b93ef1809dbe07c896db79ad65"><img src="https://img.shields.io/badge/Notion-Bookmarks-000000?style=for-the-badge&logo=notion&logoColor=white" /></a>
+<a href="https://lulamilemkhungela.github.io/portfolio.github.io/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/lulamile-mkhungela/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://dev.to/@lulamilemkhungela"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to" /></a>
+<a href="mailto:mkhungela.l@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://chartreuse-scale-c4a.notion.site/lula-creatives-ux-resources-bookmarks-1e2962b93ef1809dbe07c896db79ad65"><img src="https://img.shields.io/badge/Notion-Bookmarks-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion bookmarks" /></a>
 </p>
 
 ---
 
 ## `> whoami`
 
-```
+```python
 class LulamileMkhungela:
     role            = "Senior Product Designer & Frontend Developer @ iOCO"
     since           = "Oct 2021 · 8+ years full-lifecycle UX/UI + frontend"
@@ -51,18 +51,72 @@ class LulamileMkhungela:
 
 *The tools that actually recur across real, shipped engagements.*
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
-![Highcharts](https://img.shields.io/badge/Highcharts-1E88E5?style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" alt="React" />
+      <br />
+      <sub><b>React</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="55" alt="Angular" />
+      <br />
+      <sub><b>Angular</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55" alt="TypeScript" />
+      <br />
+      <sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactivex/reactivex-original.svg" width="55" alt="RxJS" />
+      <br />
+      <sub><b>RxJS</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="55" alt="Figma" />
+      <br />
+      <sub><b>Figma</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="55" alt="Tailwind CSS" />
+      <br />
+      <sub><b>Tailwind</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" width="55" alt="Storybook" />
+      <br />
+      <sub><b>Storybook</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/highcharts/1E88E5" width="55" alt="Highcharts" />
+      <br />
+      <sub><b>Highcharts</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" alt="Node.js" />
+      <br />
+      <sub><b>Node.js</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="65" alt="AWS" />
+      <br />
+      <sub><b>AWS</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="55" alt="GitHub Actions" />
+      <br />
+      <sub><b>GitHub Actions</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/jira/0052CC" width="55" alt="Jira" />
+      <br />
+      <sub><b>Jira</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -98,55 +152,252 @@ class LulamileMkhungela:
 ## Full Toolkit
 
 ### Design & Prototyping
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
-![Sketch](https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=white)
-![InVision](https://img.shields.io/badge/InVision-FF3366?style=for-the-badge&logo=invision&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![ProtoPie](https://img.shields.io/badge/ProtoPie-1E1E1E?style=for-the-badge)
-![Zeplin](https://img.shields.io/badge/Zeplin-FDBD39?style=for-the-badge&logo=zeplin&logoColor=black)
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="55" alt="Figma" />
+      <br />
+      <sub><b>Figma</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/adobexd/FF61F6" width="55" alt="Adobe XD" />
+      <br />
+      <sub><b>Adobe XD</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/sketch/F7B500" width="55" alt="Sketch" />
+      <br />
+      <sub><b>Sketch</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/invision/FF3366" width="55" alt="InVision" />
+      <br />
+      <sub><b>InVision</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/framer/0055FF" width="55" alt="Framer" />
+      <br />
+      <sub><b>Framer</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/protopie/1E1E1E" width="55" alt="ProtoPie" />
+      <br />
+      <sub><b>ProtoPie</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/zeplin/FDBD39" width="55" alt="Zeplin" />
+      <br />
+      <sub><b>Zeplin</b></sub>
+    </td>
+  </tr>
+</table>
 
 ### Research, Testing & AI Workflow
-![Hotjar](https://img.shields.io/badge/Hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white)
-![Maze](https://img.shields.io/badge/Maze-4C39AB?style=for-the-badge)
-![UserTesting](https://img.shields.io/badge/UserTesting-000000?style=for-the-badge)
-![BrowserStack](https://img.shields.io/badge/BrowserStack-4285F4?style=for-the-badge&logo=browserstack&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-6E56CF?style=for-the-badge)
-![MCP](https://img.shields.io/badge/MCP-161B22?style=for-the-badge)
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/hotjar/FD3A5C" width="55" alt="Hotjar" />
+      <br />
+      <sub><b>Hotjar</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/maze/4C39AB" width="55" alt="Maze" />
+      <br />
+      <sub><b>Maze</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/usertesting/000000" width="55" alt="UserTesting" />
+      <br />
+      <sub><b>UserTesting</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/browserstack/4285F4" width="55" alt="BrowserStack" />
+      <br />
+      <sub><b>BrowserStack</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/anthropic/D97757" width="55" alt="Claude" />
+      <br />
+      <sub><b>Claude</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/cursor/000000" width="55" alt="Cursor" />
+      <br />
+      <sub><b>Cursor</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/anthropic/D97757" width="55" alt="Claude Code" />
+      <br />
+      <sub><b>Claude Code</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/openai/412991" width="55" alt="AI" />
+      <br />
+      <sub><b>AI</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/knowledgebase/6E56CF" width="55" alt="RAG" />
+      <br />
+      <sub><b>RAG</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/modelcontextprotocol/161B22" width="55" alt="MCP" />
+      <br />
+      <sub><b>MCP</b></sub>
+    </td>
+  </tr>
+</table>
 
 ### Frontend & Mobile
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-![SCSS](https://img.shields.io/badge/SCSS-CF649A?style=for-the-badge&logo=sass&logoColor=white)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
 
-### Backend & Data *(consumed/integrated from the frontend — not owned)*
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="55" alt="Next.js" />
+      <br />
+      <sub><b>Next.js</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="55" alt="Ionic" />
+      <br />
+      <sub><b>Ionic</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="55" alt="Vite" />
+      <br />
+      <sub><b>Vite</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="55" alt="Webpack" />
+      <br />
+      <sub><b>Webpack</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="55" alt="SCSS" />
+      <br />
+      <sub><b>SCSS</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/pwa/5A0FC8" width="55" alt="PWA" />
+      <br />
+      <sub><b>PWA</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="55" alt="Android" />
+      <br />
+      <sub><b>Android</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/capacitor/119EFF" width="55" alt="Capacitor" />
+      <br />
+      <sub><b>Capacitor</b></sub>
+    </td>
+  </tr>
+</table>
+
+### Backend & Data
+
+*Consumed/integrated from the frontend — not owned.*
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="55" alt="Firebase" />
+      <br />
+      <sub><b>Firebase</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" alt="PostgreSQL" />
+      <br />
+      <sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" alt="MySQL" />
+      <br />
+      <sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/recharts/22B5BF" width="55" alt="Recharts" />
+      <br />
+      <sub><b>Recharts</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" width="55" alt="Chart.js" />
+      <br />
+      <sub><b>Chart.js</b></sub>
+    </td>
+  </tr>
+</table>
 
 ### QA, Accessibility & Workflow
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
-![axe](https://img.shields.io/badge/axe_DevTools-5D3FD3?style=for-the-badge)
-![WAVE](https://img.shields.io/badge/WAVE-2E7D32?style=for-the-badge)
-![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="55" alt="ESLint" />
+      <br />
+      <sub><b>ESLint</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/axe/5D3FD3" width="55" alt="axe DevTools" />
+      <br />
+      <sub><b>axe DevTools</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/wave/2E7D32" width="55" alt="WAVE" />
+      <br />
+      <sub><b>WAVE</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/lighthouse/F44B21" width="55" alt="Lighthouse" />
+      <br />
+      <sub><b>Lighthouse</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/confluence/172B4D" width="55" alt="Confluence" />
+      <br />
+      <sub><b>Confluence</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/slack/4A154B" width="55" alt="Slack" />
+      <br />
+      <sub><b>Slack</b></sub>
+    </td>
+  </tr>
+</table>
 
 ### Version Control & Cloud
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" alt="Git" />
+      <br />
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="55" alt="GitLab" />
+      <br />
+      <sub><b>GitLab</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="55" alt="Azure" />
+      <br />
+      <sub><b>Azure</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/postman/FF6C37" width="55" alt="Postman" />
+      <br />
+      <sub><b>Postman</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -161,6 +412,20 @@ class LulamileMkhungela:
 
 ---
 
+## GitHub Profile Trophies
+
+<p align="center">
+  <a href="https://github.com/LulamileMkhungela">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=LulamileMkhungela&theme=onedark&no-frame=true&no-bg=true&margin-w=15&column=6"
+      alt="GitHub Profile Trophies"
+      width="100%"
+    />
+  </a>
+</p>
+
+---
+
 ## Let's Connect
 
 I'm actively open to **Product Designer**, **UX/UI Designer**, **UI Developer**, and **Frontend Developer** (React/Angular) roles — remote, relocation, or freelance.
@@ -172,7 +437,9 @@ I'm actively open to **Product Designer**, **UX/UI Designer**, **UI Developer**,
 ---
 
 <!-- Renders once the snake.yml GitHub Actions workflow has run at least once -->
-<p align="center"><img src="https://raw.githubusercontent.com/LulamileMkhungela/LulamileMkhungela/output/github-snake.svg" alt="snake animation" width="100%"/></p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/LulamileMkhungela/LulamileMkhungela/output/github-snake.svg" alt="snake animation" width="100%"/>
+</p>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1f2937,100:0e75b6&height=120&section=footer" alt="footer banner" width="100%"/>
