@@ -246,8 +246,6 @@ class LulamileMkhungela:
 - **[ServiceWaze](https://github.com/LulamileMkhungela/ServiceWaze)** — Frontend work focused on service orchestration and user-centred workflows.
 - **[arial](https://github.com/LulamileMkhungela/arial)** — Product-interface exploration and frontend design patterns.
 
-*(Also worth pinning directly on your profile via "Customize your pins.")*
-
 ---
 
 ## Full Toolkit
