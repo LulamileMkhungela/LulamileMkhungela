@@ -1,95 +1,44 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Lulamile Mkhungela</h1>
+<h3 align="center">Senior Product Designer & Frontend Developer, South Africa</h3>
 
-# Lulamile Mkhungela
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lulamilemkhungela&label=Profile%20views&color=0e75b6&style=flat" alt="lulamilemkhungela" /> </p>
 
-### Product Designer & Frontend Developer
-**I design the product, then build the thing I designed.**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lulamilemkhungela" alt="lulamilemkhungela" /></a> </p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lulamilemkhungela.github.io/portfolio.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lulamile-mkhungela/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LulamileMkhungela)
+- 🔭 I’m currently working on **AGSA Investigations Dashboard & Eskom Coal Stockpiling ML Platform (enterprise — no public link)**
 
-</div>
+- 🌱 I’m currently learning **Advanced React/Angular architecture, generative AI for design & development**
 
----
+- 👯 I’m looking to collaborate on **AI-powered product interfaces (RAG, MCP agents, generative AI for design)**
 
-## The short version
+- 🤝 I’m looking for help with **Scaling module federation / micro-frontend architectures at enterprise scale**
 
-8+ years working the full span from **research and Figma to production React/Angular code**. Most people hand off a design and hope it survives implementation, or write code against a spec and hope it was the right spec. I do both ends, so nothing gets lost in the handoff.
+- 👨‍💻 All of my projects are available at [https://lulamilemkhungela.github.io/portfolio.github.io/](https://lulamilemkhungela.github.io/portfolio.github.io/)
 
-Currently embedded as a senior design-and-development consultant on enterprise platforms for the **Auditor-General of South Africa** and **Eskom**.
+- 💬 Ask me about **React, Angular, Android dev, TypeScript, Figma design systems, AI-powered dashboards**
 
----
+- 📫 How to reach me **mkhungela.l@gmail.com**
 
-## How I think — Product & UX/UI Design
+- 📄 Know about my experiences [https://drive.google.com/file/d/1iNgauKhYevO53_D5daPcT5cM5wkpuYkP/view?usp=sharing](https://drive.google.com/file/d/1iNgauKhYevO53_D5daPcT5cM5wkpuYkP/view?usp=sharing)
 
-Research → information architecture → user flows → wireframes → prototypes → design systems → production-ready UI.
+- ⚡ Fun fact **y design tools and my code editor are in a long-term relationship. Figma proposes the layout, VS Code argues about the breakpoints.**
 
-`Figma` `Figma Dev Mode` `Framer` `ProtoPie` `Miro` `Adobe XD` `InVision`
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-**Focus areas:** UX research · journey mapping · service blueprints · design systems & tokens · interaction design · accessibility (WCAG 2.2 AA) · usability testing
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/@lulamilemkhungela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@lulamilemkhungela" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/lulamile-mkhungela/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lulamile-mkhungela/" height="30" width="40" /></a>
+<a href="/https://chartreuse-scale-c4a.notion.site/lula-creatives-ux-resources-bookmarks-1e2962b93ef1809dbe07c896db79ad65" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://chartreuse-scale-c4a.notion.site/lula-creatives-ux-resources-bookmarks-1e2962b93ef1809dbe07c896db79ad65" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-## How I ship — Frontend Engineering
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lulamilemkhungela&show_icons=true&locale=en&layout=compact" alt="lulamilemkhungela" /></p>
 
-Design systems and prototypes only matter once they're running in production. This is where they end up.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lulamilemkhungela&show_icons=true&locale=en" alt="lulamilemkhungela" /></p>
 
-![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
-![Sass](https://img.shields.io/badge/SCSS-CF649A?style=flat-square&logo=sass&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Focus areas:** component architecture · module federation & micro-frontends · state management (Redux, NgRx, RxJS) · REST API integration · design-to-code · CI/CD · Storybook
-
----
-
-## Where the two meet — Data & AI Product Interfaces
-
-- 📊 **Decision-support UI** — Highcharts, Recharts, Leaflet, heatmaps, scenario-analysis tools, Pareto charts
-- 🤖 **AI-powered interfaces** — RAG, multimodal AI, Claude & Claude Code integration, MCP agents, prompt-driven UX
-
-This is the part of the job I actually chase: dashboards and AI tools where the interface design decisions and the data/engineering decisions have to be made together, not in sequence.
-
----
-
-## Selected impact
-
-| Where | Result |
-|---|---:|
-| Vodacom Engage — UAT acceptance | **92%** |
-| Design system governance — UI inconsistencies reduced | **65%** |
-| Shared component library — sprint velocity improved | **35%** |
-| RetailFlow — checkout completion improvement | **32%** |
-| RetailFlow — average order value improvement | **18%** |
-| FarmTrack360 — navigation time reduction | **47%** |
-| AGSA platform architecture | **6 micro-frontends · 13 REST endpoints** |
-
----
-
-## Enterprise experience
-
-Embedded design-and-development consultant across:
-
-**Auditor-General of South Africa · Eskom · Old Mutual · Takeda Pharmaceuticals · Toyota South Africa · Sasol · Vodacom**
-
-Public sector, healthcare/pharma, automotive, enterprise SaaS, AI/RAG platforms, and decision-support tooling.
-
----
-
-## Currently exploring
-
-Micro-frontends & Module Federation · advanced React/Angular architecture · scenario/what-if decision-support tools · generative AI for design & development · scalable design systems
-
----
-
-<div align="center">
-
-**Open to:** Product Designer · UX/UI Designer · UI Developer · Frontend Developer (React/Angular) — remote, relocation, or freelance
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Lula--Creatives-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lulamilemkhungela.github.io/portfolio.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lulamile_Mkhungela-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lulamile-mkhungela/)
-
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lulamilemkhungela&" alt="lulamilemkhungela" /></p>
