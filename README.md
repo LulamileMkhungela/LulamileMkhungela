@@ -18,7 +18,11 @@
 <a href="https://chartreuse-scale-c4a.notion.site/lula-creatives-ux-resources-bookmarks-1e2962b93ef1809dbe07c896db79ad65"><img src="https://img.shields.io/badge/Notion-Bookmarks-000000?style=for-the-badge&logo=notion&logoColor=white" /></a>
 </p>
 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lulamilemkhungela" alt="lulamilemkhungela" /></a></p>
+<!-- github-profile-trophy.vercel.app is currently returning HTTP 402 (Payment Required) — its Vercel deployment has been suspended/exceeded its free-tier quota, confirmed by direct check. Not fixable by editing this file; swapped for shields.io's own live badges below, which pull real data reliably. -->
+<p align="center">
+<img src="https://img.shields.io/github/followers/LulamileMkhungela?label=Followers&style=for-the-badge&color=0e75b6" alt="followers" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/LulamileMkhungela&label=Public%20Repos&query=$.public_repos&style=for-the-badge&color=0e75b6" alt="public repos" />
+</p>
 
 ---
 
@@ -96,13 +100,28 @@ class LulamileMkhungela:
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Design
+### Design & Prototyping
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Sketch](https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=white)
 ![InVision](https://img.shields.io/badge/InVision-FF3366?style=for-the-badge&logo=invision&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white)
+![ProtoPie](https://img.shields.io/badge/ProtoPie-1E1E1E?style=for-the-badge)
+![Zeplin](https://img.shields.io/badge/Zeplin-FDBD39?style=for-the-badge&logo=zeplin&logoColor=black)
+
+### User Research & Testing
+![Maze](https://img.shields.io/badge/Maze-4C39AB?style=for-the-badge)
+![Hotjar](https://img.shields.io/badge/Hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white)
+![UserTesting](https://img.shields.io/badge/UserTesting-000000?style=for-the-badge)
+
+### AI & Generative Tools
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6E56CF?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-161B22?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative_AI-0EA5E9?style=for-the-badge)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -124,6 +143,8 @@ class LulamileMkhungela:
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 
 ### Backend & Data
+*I consume and integrate these from the frontend — REST/GraphQL calls, auth, data binding — I don't build or own backend implementations.*
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -137,6 +158,21 @@ class LulamileMkhungela:
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+
+### Dev Workflow & QA
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+### Collaboration & Project Management
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 ### DevOps & Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
