@@ -1,157 +1,95 @@
-# 👋 Hi, I'm Lulamile Mkhungela
+<div align="center">
 
-### Senior Product Designer · UI/UX Designer · UI Developer · Frontend Developer
+# Lulamile Mkhungela
+
+### Product Designer & Frontend Developer
+**I design the product, then build the thing I designed.**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lulamilemkhungela.github.io/portfolio.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lulamile-mkhungela/)
-[![GitHub](https://img.shields.io/badge/GitHub-LulamileMkhungela-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LulamileMkhungela)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LulamileMkhungela)
 
-> **I design it, build it, integrate it, and take it to production.**
-
-I'm a South African **Senior Product Designer and Frontend Developer** with 8+ years of experience bridging product design and engineering. I work across the full lifecycle — from **UX research, information architecture and Figma design systems to production React/Angular interfaces, API integration, QA and UAT**.
-
-My focus is creating digital products that are **visually strong, usable, accessible, responsive, scalable and technically maintainable**.
+</div>
 
 ---
 
-## 🎨 Design → UI → Code → Integration
+## The short version
 
-```text
-UX Research → Information Architecture → UX/UI Design
-      ↓
-Design Systems & Components
-      ↓
-Figma → Production UI
-      ↓
-Frontend Development
-      ↓
-API / Data Integration
-      ↓
-Testing & Accessibility → UAT → Production
-```
+8+ years working the full span from **research and Figma to production React/Angular code**. Most people hand off a design and hope it survives implementation, or write code against a spec and hope it was the right spec. I do both ends, so nothing gets lost in the handoff.
 
-### What I do
-
-- 🎨 **Product & UI/UX Design** — research, user journeys, wireframes, prototypes and interaction design
-- 🧩 **Design Systems** — components, variables, tokens, responsive patterns, documentation and governance
-- 💻 **Frontend Engineering** — React, Angular, Ionic, TypeScript, HTML5, CSS3 and SCSS
-- 🔌 **Integration** — REST APIs, state management, data visualisation and frontend/backend integration
-- 📱 **Responsive UI** — mobile-first, cross-browser and production-ready interfaces
-- ♿ **Accessibility** — WCAG 2.2 AA, ARIA and screen-reader-aware design
-- 📊 **Data & Dashboard UI** — Highcharts, Recharts, maps, dashboards and decision-support interfaces
-- 🤖 **AI & Emerging Technology** — RAG, multimodal AI, Claude, Claude Code, Cursor, MCP Agents and generative AI integration
+Currently embedded as a senior design-and-development consultant on enterprise platforms for the **Auditor-General of South Africa** and **Eskom**.
 
 ---
 
-# 🛠️ Tech & Design Stack
+## How I think — Product & UX/UI Design
 
-## 🎨 Product Design
+Research → information architecture → user flows → wireframes → prototypes → design systems → production-ready UI.
 
-**Figma · Figma Dev Mode · Framer · ProtoPie · Miro · Adobe XD · Photoshop · InVision**
+`Figma` `Figma Dev Mode` `Framer` `ProtoPie` `Miro` `Adobe XD` `InVision`
 
-UX Research · Information Architecture · User Flows · Wireframing · Prototyping · Usability Testing · Interaction Design · Design Systems · Design Tokens · Accessibility · Journey Mapping · Service Blueprints
-
-## 💻 Frontend Development
-
-![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CF649A?style=for-the-badge&logo=sass&logoColor=white)
-
-**Redux · RxJS · NgRx · Angular Material · Angular CDK · Tailwind CSS · Bootstrap · Vite · Storybook · PWA · Component Architecture · Module Federation · Micro-frontends**
-
-## 🔌 Integration & Engineering
-
-**REST APIs · Node.js · AWS · Firebase · Git · GitHub Actions · API Integration · State Management · JSON · Authentication · Component Libraries · Design-to-Code · QA · UAT · CI/CD · Pull Requests · Code Review**
-
-## 📊 Data Visualisation
-
-**Highcharts · Recharts · Leaflet · Power BI · Interactive Dashboards · Maps · Heatmaps · Timelines · Pareto Charts · Risk Visualisation · Scenario Analysis**
-
-## 🤖 AI & Emerging Technology
-
-**Generative AI · RAG · Multimodal AI · Claude · Claude Code · Cursor · MCP Agents · AI Product Interfaces · AI-assisted Development · AI Integration · Prompt Engineering**
+**Focus areas:** UX research · journey mapping · service blueprints · design systems & tokens · interaction design · accessibility (WCAG 2.2 AA) · usability testing
 
 ---
 
-# 🚀 Selected Impact
+## How I ship — Frontend Engineering
 
-| Outcome | Result |
+Design systems and prototypes only matter once they're running in production. This is where they end up.
+
+![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
+![Sass](https://img.shields.io/badge/SCSS-CF649A?style=flat-square&logo=sass&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Focus areas:** component architecture · module federation & micro-frontends · state management (Redux, NgRx, RxJS) · REST API integration · design-to-code · CI/CD · Storybook
+
+---
+
+## Where the two meet — Data & AI Product Interfaces
+
+- 📊 **Decision-support UI** — Highcharts, Recharts, Leaflet, heatmaps, scenario-analysis tools, Pareto charts
+- 🤖 **AI-powered interfaces** — RAG, multimodal AI, Claude & Claude Code integration, MCP agents, prompt-driven UX
+
+This is the part of the job I actually chase: dashboards and AI tools where the interface design decisions and the data/engineering decisions have to be made together, not in sequence.
+
+---
+
+## Selected impact
+
+| Where | Result |
 |---|---:|
-| Vodacom Engage UAT acceptance | **92%** |
-| UI inconsistencies reduced through Design System governance | **65%** |
-| Agile sprint velocity improved with shared component library | **35%** |
-| RetailFlow checkout completion improvement | **32%** |
-| RetailFlow average order value improvement | **18%** |
-| FarmTrack360 navigation time reduction | **47%** |
-| AGSA production architecture | **6 micro-frontends + 13 REST endpoints** |
+| Vodacom Engage — UAT acceptance | **92%** |
+| Design system governance — UI inconsistencies reduced | **65%** |
+| Shared component library — sprint velocity improved | **35%** |
+| RetailFlow — checkout completion improvement | **32%** |
+| RetailFlow — average order value improvement | **18%** |
+| FarmTrack360 — navigation time reduction | **47%** |
+| AGSA platform architecture | **6 micro-frontends · 13 REST endpoints** |
 
 ---
 
-# 🏢 Enterprise Experience
+## Enterprise experience
 
-I've worked as an embedded design-and-development consultant across:
+Embedded design-and-development consultant across:
 
 **Auditor-General of South Africa · Eskom · Old Mutual · Takeda Pharmaceuticals · Toyota South Africa · Sasol · Vodacom**
 
-My work spans enterprise SaaS, data-heavy dashboards, healthcare/pharmaceutical platforms, public-sector products, automotive mobile applications, AI/RAG platforms, enterprise design systems, decision-support tools and API-driven frontend applications.
+Public sector, healthcare/pharma, automotive, enterprise SaaS, AI/RAG platforms, and decision-support tooling.
 
 ---
 
-# 🧠 My Design Engineering Philosophy
+## Currently exploring
 
-### Design shouldn't stop at the handoff.
-
-I believe the strongest product teams connect **design decisions with implementation decisions**.
-
-```text
-Good UX
-   +
-Strong visual design
-   +
-Reusable components
-   +
-Clean frontend architecture
-   +
-Accessible implementation
-   +
-Reliable integrations
-   =
-Better products
-```
-
-I enjoy working where **design, frontend engineering, data and product strategy overlap**.
+Micro-frontends & Module Federation · advanced React/Angular architecture · scenario/what-if decision-support tools · generative AI for design & development · scalable design systems
 
 ---
 
-# 📌 Currently Exploring
+<div align="center">
 
-- Advanced React and frontend architecture
-- Angular and enterprise component systems
-- Micro-frontends and Module Federation
-- Design-to-code workflows
-- AI-powered product experiences
-- RAG and multimodal interfaces
-- Scenario / what-if decision-support tools
-- Generative AI for design and development
-- Scalable design systems
+**Open to:** Product Designer · UX/UI Designer · UI Developer · Frontend Developer (React/Angular) — remote, relocation, or freelance
 
----
-
-# 🤝 Let's Connect
-
-I'm interested in opportunities involving **Product Design, UX/UI, Design Engineering, Frontend Development, Design Systems and AI-powered digital products**.
-
-[![GitHub](https://img.shields.io/badge/GitHub-LulamileMkhungela-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LulamileMkhungela)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lulamile_Mkhungela-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lulamile-mkhungela/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Lula--Creatives-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lulamilemkhungela.github.io/portfolio.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lulamile_Mkhungela-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lulamile-mkhungela/)
 
----
-
-<p align="center">
-  <i>Designing experiences. Building interfaces. Integrating systems. Shipping products.</i>
-</p>
+</div>
