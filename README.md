@@ -23,18 +23,34 @@ class LulamileMkhungela:
     role            = "Senior Product Designer & Frontend Developer @ iOCO"
     since           = "Oct 2021 · 8+ years full-lifecycle UX/UI + frontend"
     based_in        = "Marshalltown, South Africa"
-    specialization  = ["Product & UX/UI Design", "React/Angular Micro-Frontends",
-                        "Design Systems", "AI-Powered Product Interfaces"]
-    stack           = ["React", "TypeScript", "Angular", "Vite", "Tailwind",
-                        "Figma", "Module Federation"]
-    currently_on    = ["AGSA — Public Accountability Intelligence Platform (since May 2026)",
-                        "Eskom Coal Stockpiling ML Platform (since Aug 2026)"]
+
+    specialization  = [
+        "Product & UX/UI Design",
+        "React/Angular Micro-Frontends",
+        "Design Systems",
+        "AI-Powered Product Interfaces",
+    ]
+
+    stack           = [
+        "React",
+        "TypeScript",
+        "Angular",
+        "Vite",
+        "Tailwind",
+        "Figma",
+        "Module Federation",
+    ]
+
+    currently_on    = [
+        "AGSA — Public Accountability Intelligence Platform (since May 2026)",
+        "Eskom Coal Stockpiling ML Platform (since Aug 2026)",
+    ]
 
     impact = {
-        "vodacom_uat_acceptance":        "92%",
-        "design_system_ui_fixes":        "65% fewer inconsistencies",
-        "sprint_velocity_gain":          "35%",
-        "agsa_architecture":             "Enterprise-scale micro-frontend architecture",
+        "vodacom_uat_acceptance": "92%",
+        "design_system_ui_fixes": "65% fewer inconsistencies",
+        "sprint_velocity_gain": "35%",
+        "agsa_architecture": "Enterprise-scale micro-frontend architecture",
     }
 ```
 
@@ -91,7 +107,7 @@ class LulamileMkhungela:
       <sub><b>Storybook</b></sub>
     </td>
     <td align="center">
-      <img src="https://cdn.simpleicons.org/highcharts/1E88E5" width="55" alt="Highcharts" />
+      <img src="https://img.shields.io/badge/Highcharts-1E88E5?style=for-the-badge&logoColor=white" height="32" alt="Highcharts" />
       <br />
       <sub><b>Highcharts</b></sub>
     </td>
@@ -111,7 +127,7 @@ class LulamileMkhungela:
       <sub><b>GitHub Actions</b></sub>
     </td>
     <td align="center">
-      <img src="https://cdn.simpleicons.org/jira/0052CC" width="55" alt="Jira" />
+      <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="32" alt="Jira" />
       <br />
       <sub><b>Jira</b></sub>
     </td>
@@ -133,7 +149,7 @@ class LulamileMkhungela:
 
 | | |
 |---|---|
-| **iOCO** | **Senior Product Designer & Frontend Developer** · Oct 2021 — Present<br>**→** Embedded design-and-development authority across enterprise client engagements<br>**→** Currently on **AGSA** (since May 2026) and **Eskom** (since Aug 2026), concurrently<br>**→** 8+ years full-lifecycle UX/UI design and frontend development |
+| **iOCO** | **Senior Product Designer & Frontend Developer** · Oct 2021 — Present<br><br>**→** Embedded design-and-development authority across enterprise client engagements<br>**→** Currently on **AGSA** (since May 2026) and **Eskom** (since Aug 2026), concurrently<br>**→** 8+ years full-lifecycle UX/UI design and frontend development |
 
 **Enterprise clients:** Auditor-General of South Africa · Eskom · Old Mutual · Takeda Pharmaceuticals · Toyota South Africa · Sasol · Vodacom
 
@@ -161,17 +177,17 @@ class LulamileMkhungela:
       <sub><b>Figma</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.simpleicons.org/adobexd/FF61F6" width="55" alt="Adobe XD" />
+      <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" height="32" alt="Adobe XD" />
       <br />
       <sub><b>Adobe XD</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.simpleicons.org/sketch/F7B500" width="55" alt="Sketch" />
+      <img src="https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=black" height="32" alt="Sketch" />
       <br />
       <sub><b>Sketch</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.simpleicons.org/invision/FF3366" width="55" alt="InVision" />
+      <img src="https://img.shields.io/badge/InVision-FF3366?style=for-the-badge&logo=invision&logoColor=white" height="32" alt="InVision" />
       <br />
       <sub><b>InVision</b></sub>
     </td>
@@ -181,12 +197,12 @@ class LulamileMkhungela:
       <sub><b>Framer</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.simpleicons.org/protopie/1E1E1E" width="55" alt="ProtoPie" />
+      <img src="https://img.shields.io/badge/ProtoPie-1E1E1E?style=for-the-badge&logoColor=white" height="32" alt="ProtoPie" />
       <br />
       <sub><b>ProtoPie</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.simpleicons.org/zeplin/FDBD39" width="55" alt="Zeplin" />
+      <img src="https://img.shields.io/badge/Zeplin-FDBD39?style=for-the-badge&logo=zeplin&logoColor=black" height="32" alt="Zeplin" />
       <br />
       <sub><b>Zeplin</b></sub>
     </td>
@@ -198,54 +214,54 @@ class LulamileMkhungela:
 <table>
   <tr>
     <td align="center" width="120">
-      <img src="https://cdn.simpleicons.org/hotjar/FD3A5C" width="55" alt="Hotjar" />
+      <img src="https://img.shields.io/badge/Hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white" height="32" alt="Hotjar" />
       <br />
       <sub><b>Hotjar</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.simpleicons.org/maze/4C39AB" width="55" alt="Maze" />
+      <img src="https://img.shields.io/badge/Maze-4C39AB?style=for-the-badge&logoColor=white" height="32" alt="Maze" />
       <br />
       <sub><b>Maze</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.simpleicons.org/usertesting/000000" width="55" alt="UserTesting" />
+      <img src="https://img.shields.io/badge/UserTesting-000000?style=for-the-badge&logoColor=white" height="32" alt="UserTesting" />
       <br />
       <sub><b>UserTesting</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.simpleicons.org/browserstack/4285F4" width="55" alt="BrowserStack" />
+      <img src="https://img.shields.io/badge/BrowserStack-4285F4?style=for-the-badge&logo=browserstack&logoColor=white" height="32" alt="BrowserStack" />
       <br />
       <sub><b>BrowserStack</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.simpleicons.org/anthropic/D97757" width="55" alt="Claude" />
+      <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logoColor=white" height="32" alt="Claude" />
       <br />
       <sub><b>Claude</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.simpleicons.org/cursor/000000" width="55" alt="Cursor" />
+      <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white" height="32" alt="Cursor" />
       <br />
       <sub><b>Cursor</b></sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://cdn.simpleicons.org/anthropic/D97757" width="55" alt="Claude Code" />
+      <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logoColor=white" height="32" alt="Claude Code" />
       <br />
       <sub><b>Claude Code</b></sub>
     </td>
     <td align="center">
-      <img src="https://cdn.simpleicons.org/openai/412991" width="55" alt="AI" />
+      <img src="https://img.shields.io/badge/AI-412991?style=for-the-badge&logoColor=white" height="32" alt="AI" />
       <br />
       <sub><b>AI</b></sub>
     </td>
     <td align="center">
-      <img src="https://cdn.simpleicons.org/knowledgebase/6E56CF" width="55" alt="RAG" />
+      <img src="https://img.shields.io/badge/RAG-6E56CF?style=for-the-badge&logoColor=white" height="32" alt="RAG" />
       <br />
       <sub><b>RAG</b></sub>
     </td>
     <td align="center">
-      <img src="https://cdn.simpleicons.org/modelcontextprotocol/161B22" width="55" alt="MCP" />
+      <img src="https://img.shields.io/badge/MCP-161B22?style=for-the-badge&logoColor=white" height="32" alt="MCP" />
       <br />
       <sub><b>MCP</b></sub>
     </td>
@@ -282,7 +298,7 @@ class LulamileMkhungela:
       <sub><b>SCSS</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.simpleicons.org/pwa/5A0FC8" width="55" alt="PWA" />
+      <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" height="32" alt="PWA" />
       <br />
       <sub><b>PWA</b></sub>
     </td>
@@ -294,7 +310,7 @@ class LulamileMkhungela:
       <sub><b>Android</b></sub>
     </td>
     <td align="center">
-      <img src="https://cdn.simpleicons.org/capacitor/119EFF" width="55" alt="Capacitor" />
+      <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white" height="32" alt="Capacitor" />
       <br />
       <sub><b>Capacitor</b></sub>
     </td>
@@ -323,12 +339,12 @@ class LulamileMkhungela:
       <sub><b>MySQL</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.simpleicons.org/recharts/22B5BF" width="55" alt="Recharts" />
+      <img src="https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge&logoColor=white" height="32" alt="Recharts" />
       <br />
       <sub><b>Recharts</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" width="55" alt="Chart.js" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/chartjs-original.svg" width="55" alt="Chart.js" />
       <br />
       <sub><b>Chart.js</b></sub>
     </td>
@@ -345,27 +361,27 @@ class LulamileMkhungela:
       <sub><b>ESLint</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.simpleicons.org/axe/5D3FD3" width="55" alt="axe DevTools" />
+      <img src="https://img.shields.io/badge/axe_DevTools-5D3FD3?style=for-the-badge&logoColor=white" height="32" alt="axe DevTools" />
       <br />
       <sub><b>axe DevTools</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.simpleicons.org/wave/2E7D32" width="55" alt="WAVE" />
+      <img src="https://img.shields.io/badge/WAVE-2E7D32?style=for-the-badge&logoColor=white" height="32" alt="WAVE" />
       <br />
       <sub><b>WAVE</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.simpleicons.org/lighthouse/F44B21" width="55" alt="Lighthouse" />
+      <img src="https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white" height="32" alt="Lighthouse" />
       <br />
       <sub><b>Lighthouse</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.simpleicons.org/confluence/172B4D" width="55" alt="Confluence" />
+      <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" height="32" alt="Confluence" />
       <br />
       <sub><b>Confluence</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.simpleicons.org/slack/4A154B" width="55" alt="Slack" />
+      <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" height="32" alt="Slack" />
       <br />
       <sub><b>Slack</b></sub>
     </td>
@@ -392,7 +408,12 @@ class LulamileMkhungela:
       <sub><b>Azure</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.simpleicons.org/postman/FF6C37" width="55" alt="Postman" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="32" alt="Vercel" />
+      <br />
+      <sub><b>Vercel</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="32" alt="Postman" />
       <br />
       <sub><b>Postman</b></sub>
     </td>
@@ -405,7 +426,11 @@ class LulamileMkhungela:
 
 <!-- Renders once the metrics.yml GitHub Actions workflow has run at least once -->
 <p align="center">
-<img src="https://raw.githubusercontent.com/LulamileMkhungela/LulamileMkhungela/main/generated/metrics.svg" alt="GitHub stats and most used languages" width="100%"/>
+  <img
+    src="https://raw.githubusercontent.com/LulamileMkhungela/LulamileMkhungela/main/generated/metrics.svg"
+    alt="GitHub stats and most used languages"
+    width="100%"
+  />
 </p>
 
 *Majority of production Angular/React work sits in private client repositories under NDA (AGSA, Eskom, Takeda, Toyota, Sasol, Vodacom) — public contribution volume does not reflect actual output.*
@@ -438,9 +463,17 @@ I'm actively open to **Product Designer**, **UX/UI Designer**, **UI Developer**,
 
 <!-- Renders once the snake.yml GitHub Actions workflow has run at least once -->
 <p align="center">
-<img src="https://raw.githubusercontent.com/LulamileMkhungela/LulamileMkhungela/output/github-snake.svg" alt="snake animation" width="100%"/>
+  <img
+    src="https://raw.githubusercontent.com/LulamileMkhungela/LulamileMkhungela/output/github-snake.svg"
+    alt="snake animation"
+    width="100%"
+  />
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1f2937,100:0e75b6&height=120&section=footer" alt="footer banner" width="100%"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1f2937,100:0e75b6&height=120&section=footer"
+    alt="footer banner"
+    width="100%"
+  />
 </p>
