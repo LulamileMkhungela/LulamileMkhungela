@@ -1,17 +1,27 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1f2937,100:0e75b6&height=220&section=header&text=Lulamile%20Mkhungela&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Product%20Designer%20and%20Frontend%20Developer&descSize=18&descAlignY=58&descAlign=50" alt="header banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1f2937,100:0e75b6&height=220&section=header&text=Lulamile%20Mkhungela&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Product%20Designer%20and%20Frontend%20Developer&descSize=18&descAlignY=58&descAlign=50" alt="header banner" width="100%" />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=Product+Designer+%2B+Frontend+Engineer;Figma+%E2%86%92+React+%2B+Angular+%E2%86%92+Production;AGSA+%2B+Eskom+%E2%80%94+enterprise+platforms" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=Product+Designer+%2B+Frontend+Engineer;Figma+%E2%86%92+React+%2B+Angular+%E2%86%92+Production;AGSA+%2B+Eskom+%E2%80%94+enterprise+platforms" alt="Typing SVG" />
 </p>
 
 <p align="center">
-<a href="https://lulamilemkhungela.github.io/portfolio.github.io/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/lulamile-mkhungela/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://dev.to/@lulamilemkhungela"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to" /></a>
-<a href="mailto:mkhungela.l@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://chartreuse-scale-c4a.notion.site/lula-creatives-ux-resources-bookmarks-1e2962b93ef1809dbe07c896db79ad65"><img src="https://img.shields.io/badge/Notion-Bookmarks-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion bookmarks" /></a>
+  <a href="https://lulamilemkhungela.github.io/portfolio.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/lulamile-mkhungela/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://dev.to/@lulamilemkhungela">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to" />
+  </a>
+  <a href="mailto:mkhungela.l@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://chartreuse-scale-c4a.notion.site/lula-creatives-ux-resources-bookmarks-1e2962b93ef1809dbe07c896db79ad65">
+    <img src="https://img.shields.io/badge/Notion-Bookmarks-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion bookmarks" />
+  </a>
 </p>
 
 ---
@@ -32,9 +42,13 @@ class LulamileMkhungela:
     ]
 
     stack           = [
+        "HTML",
+        "CSS",
+        "JavaScript",
         "React",
         "TypeScript",
         "Angular",
+        "RxJS",
         "Vite",
         "Tailwind",
         "Figma",
@@ -85,26 +99,36 @@ class LulamileMkhungela:
       <sub><b>TypeScript</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactivex/reactivex-original.svg" width="55" alt="RxJS" />
+      <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" height="32" alt="RxJS" />
       <br />
       <sub><b>RxJS</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="55" alt="Figma" />
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" height="32" alt="Vite" />
       <br />
-      <sub><b>Figma</b></sub>
+      <sub><b>Vite</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="55" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" height="32" alt="Tailwind CSS" />
       <br />
       <sub><b>Tailwind</b></sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" width="55" alt="Storybook" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="55" alt="Figma" />
+      <br />
+      <sub><b>Figma</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" height="32" alt="Storybook" />
       <br />
       <sub><b>Storybook</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="32" alt="Node.js" />
+      <br />
+      <sub><b>Node.js</b></sub>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Highcharts-1E88E5?style=for-the-badge&logoColor=white" height="32" alt="Highcharts" />
@@ -112,24 +136,85 @@ class LulamileMkhungela:
       <sub><b>Highcharts</b></sub>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" alt="Node.js" />
-      <br />
-      <sub><b>Node.js</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="65" alt="AWS" />
-      <br />
-      <sub><b>AWS</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="55" alt="GitHub Actions" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" height="32" alt="GitHub Actions" />
       <br />
       <sub><b>GitHub Actions</b></sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="32" alt="Jira" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="32" alt="Vercel" />
       <br />
-      <sub><b>Jira</b></sub>
+      <sub><b>Vercel</b></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Languages & Frameworks
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" alt="HTML5" />
+      <br />
+      <sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" alt="CSS3" />
+      <br />
+      <sub><b>CSS3</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" alt="JavaScript" />
+      <br />
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55" alt="TypeScript" />
+      <br />
+      <sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="55" alt="SCSS" />
+      <br />
+      <sub><b>SCSS</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" alt="Node.js" />
+      <br />
+      <sub><b>Node.js</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" alt="React" />
+      <br />
+      <sub><b>React</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="55" alt="Angular" />
+      <br />
+      <sub><b>Angular</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" height="32" alt="RxJS" />
+      <br />
+      <sub><b>RxJS</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" height="32" alt="Vite" />
+      <br />
+      <sub><b>Vite</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" height="32" alt="Tailwind CSS" />
+      <br />
+      <sub><b>Tailwind</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="32" alt="Next.js" />
+      <br />
+      <sub><b>Next.js</b></sub>
     </td>
   </tr>
 </table>
@@ -138,10 +223,10 @@ class LulamileMkhungela:
 
 ## Currently Shipping
 
-- **AGSA** — Public Accountability Intelligence Platform (module federation host)
-- **Eskom** — Coal Stockpiling ML Platform (scenario dashboards)
-- Design system governance across AGSA products
-- AI-powered interfaces — RAG, MCP agents, generative design
+- **AGSA** — Public Accountability Intelligence Platform using a module-federation host
+- **Eskom** — Coal Stockpiling ML Platform with scenario dashboards
+- Design-system governance across AGSA products
+- AI-powered interfaces using RAG, MCP agents, and generative design
 
 ---
 
@@ -157,9 +242,9 @@ class LulamileMkhungela:
 
 ## Featured Projects
 
-- **[design-ops](https://github.com/LulamileMkhungela/design-ops)** — *[add a one-line description]*
-- **[ServiceWaze](https://github.com/LulamileMkhungela/ServiceWaze)** — *[add a one-line description]*
-- **[arial](https://github.com/LulamileMkhungela/arial)** — *[add a one-line description]*
+- **[design-ops](https://github.com/LulamileMkhungela/design-ops)** — Design-system governance and component standards.
+- **[ServiceWaze](https://github.com/LulamileMkhungela/ServiceWaze)** — Frontend work focused on service orchestration and user-centred workflows.
+- **[arial](https://github.com/LulamileMkhungela/arial)** — Product-interface exploration and frontend design patterns.
 
 *(Also worth pinning directly on your profile via "Customize your pins.")*
 
@@ -182,17 +267,17 @@ class LulamileMkhungela:
       <sub><b>Adobe XD</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=black" height="32" alt="Sketch" />
+      <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" height="32" alt="Photoshop" />
       <br />
-      <sub><b>Sketch</b></sub>
+      <sub><b>Photoshop</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="https://img.shields.io/badge/InVision-FF3366?style=for-the-badge&logo=invision&logoColor=white" height="32" alt="InVision" />
+      <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="32" alt="Canva" />
       <br />
-      <sub><b>InVision</b></sub>
+      <sub><b>Canva</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.simpleicons.org/framer/0055FF" width="55" alt="Framer" />
+      <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" height="32" alt="Framer" />
       <br />
       <sub><b>Framer</b></sub>
     </td>
@@ -251,11 +336,6 @@ class LulamileMkhungela:
       <sub><b>Claude Code</b></sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/AI-412991?style=for-the-badge&logoColor=white" height="32" alt="AI" />
-      <br />
-      <sub><b>AI</b></sub>
-    </td>
-    <td align="center">
       <img src="https://img.shields.io/badge/RAG-6E56CF?style=for-the-badge&logoColor=white" height="32" alt="RAG" />
       <br />
       <sub><b>RAG</b></sub>
@@ -273,27 +353,27 @@ class LulamileMkhungela:
 <table>
   <tr>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="55" alt="Next.js" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="32" alt="Next.js" />
       <br />
       <sub><b>Next.js</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="55" alt="Ionic" />
+      <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" height="32" alt="Ionic" />
       <br />
       <sub><b>Ionic</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="55" alt="Vite" />
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" height="32" alt="Vite" />
       <br />
       <sub><b>Vite</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="55" alt="Webpack" />
+      <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" height="32" alt="Webpack" />
       <br />
       <sub><b>Webpack</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="55" alt="SCSS" />
+      <img src="https://img.shields.io/badge/SCSS-CF649A?style=for-the-badge&logo=sass&logoColor=white" height="32" alt="SCSS" />
       <br />
       <sub><b>SCSS</b></sub>
     </td>
@@ -305,7 +385,7 @@ class LulamileMkhungela:
   </tr>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="55" alt="Android" />
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black" height="32" alt="Android" />
       <br />
       <sub><b>Android</b></sub>
     </td>
@@ -319,22 +399,22 @@ class LulamileMkhungela:
 
 ### Backend & Data
 
-*Consumed/integrated from the frontend — not owned.*
+*Consumed and integrated from the frontend — not owned.*
 
 <table>
   <tr>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="55" alt="Firebase" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="32" alt="Firebase" />
       <br />
       <sub><b>Firebase</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="32" alt="PostgreSQL" />
       <br />
       <sub><b>PostgreSQL</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" alt="MySQL" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="32" alt="MySQL" />
       <br />
       <sub><b>MySQL</b></sub>
     </td>
@@ -344,9 +424,14 @@ class LulamileMkhungela:
       <sub><b>Recharts</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/chartjs-original.svg" width="55" alt="Chart.js" />
+      <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" height="32" alt="Chart.js" />
       <br />
       <sub><b>Chart.js</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Highcharts-1E88E5?style=for-the-badge&logoColor=white" height="32" alt="Highcharts" />
+      <br />
+      <sub><b>Highcharts</b></sub>
     </td>
   </tr>
 </table>
@@ -356,7 +441,7 @@ class LulamileMkhungela:
 <table>
   <tr>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="55" alt="ESLint" />
+      <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" height="32" alt="ESLint" />
       <br />
       <sub><b>ESLint</b></sub>
     </td>
@@ -376,14 +461,31 @@ class LulamileMkhungela:
       <sub><b>Lighthouse</b></sub>
     </td>
     <td align="center" width="120">
+      <img src="https://img.shields.io/badge/BrowserStack-4285F4?style=for-the-badge&logo=browserstack&logoColor=white" height="32" alt="BrowserStack" />
+      <br />
+      <sub><b>BrowserStack</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="32" alt="Postman" />
+      <br />
+      <sub><b>Postman</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" height="32" alt="Confluence" />
       <br />
       <sub><b>Confluence</b></sub>
     </td>
-    <td align="center" width="120">
+    <td align="center">
       <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" height="32" alt="Slack" />
       <br />
       <sub><b>Slack</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="32" alt="Jira" />
+      <br />
+      <sub><b>Jira</b></sub>
     </td>
   </tr>
 </table>
@@ -393,29 +495,34 @@ class LulamileMkhungela:
 <table>
   <tr>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" alt="Git" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="32" alt="Git" />
       <br />
       <sub><b>Git</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="55" alt="GitLab" />
+      <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" height="32" alt="GitLab" />
       <br />
       <sub><b>GitLab</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="55" alt="Azure" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" height="32" alt="GitHub Actions" />
+      <br />
+      <sub><b>GitHub Actions</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" height="32" alt="Azure" />
       <br />
       <sub><b>Azure</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="32" alt="AWS" />
+      <br />
+      <sub><b>AWS</b></sub>
     </td>
     <td align="center" width="120">
       <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="32" alt="Vercel" />
       <br />
       <sub><b>Vercel</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="32" alt="Postman" />
-      <br />
-      <sub><b>Postman</b></sub>
     </td>
   </tr>
 </table>
@@ -424,16 +531,36 @@ class LulamileMkhungela:
 
 ## GitHub Analytics
 
-<!-- Renders once the metrics.yml GitHub Actions workflow has run at least once -->
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=LulamileMkhungela&show_icons=true&include_all_commits=true&count_private=false&theme=github_dark&hide_border=true&rank_icon=github&cache_seconds=86400"
+    alt="Lulamile Mkhungela GitHub statistics"
+    width="49%"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LulamileMkhungela&layout=compact&langs_count=8&theme=github_dark&hide_border=true&cache_seconds=86400"
+    alt="Most used programming languages"
+    width="49%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=LulamileMkhungela&theme=github-dark-blue&hide_border=true"
+    alt="GitHub contribution streak"
+    width="70%"
+  />
+</p>
+
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/LulamileMkhungela/LulamileMkhungela/main/generated/metrics.svg"
-    alt="GitHub stats and most used languages"
+    alt="GitHub generated metrics"
     width="100%"
   />
 </p>
 
-*Majority of production Angular/React work sits in private client repositories under NDA (AGSA, Eskom, Takeda, Toyota, Sasol, Vodacom) — public contribution volume does not reflect actual output.*
+*The majority of my production Angular and React work sits in private client repositories under NDA (AGSA, Eskom, Takeda, Toyota, Sasol, and Vodacom). Public contribution volume does not reflect actual output.*
 
 ---
 
@@ -453,19 +580,26 @@ class LulamileMkhungela:
 
 ## Let's Connect
 
-I'm actively open to **Product Designer**, **UX/UI Designer**, **UI Developer**, and **Frontend Developer** (React/Angular) roles — remote, relocation, or freelance.
+I'm actively open to **Product Designer**, **UX/UI Designer**, **UI Developer**, and **Frontend Developer** roles specialising in React and Angular — remote, relocation, or freelance.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lulamilemkhungela.github.io/portfolio.github.io/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mkhungela.l@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lulamile-mkhungela/)
+<p align="center">
+  <a href="https://lulamilemkhungela.github.io/portfolio.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:mkhungela.l@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/lulamile-mkhungela/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
-<!-- Renders once the snake.yml GitHub Actions workflow has run at least once -->
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/LulamileMkhungela/LulamileMkhungela/output/github-snake.svg"
-    alt="snake animation"
+    alt="GitHub contribution snake animation"
     width="100%"
   />
 </p>
