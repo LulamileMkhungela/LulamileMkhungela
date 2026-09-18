@@ -21,3 +21,10 @@ jobs:
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_recent_categories: "productive, markup"
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          plugin_pagespeed: yes
+          plugin_pagespeed_url: https://lulamilemkhungela.github.io/portfolio.github.io/
+          plugin_pagespeed_screenshot: yes
