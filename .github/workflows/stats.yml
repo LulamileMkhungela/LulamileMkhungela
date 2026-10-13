@@ -19,27 +19,11 @@ jobs:
           template: classic
           base: "header, activity, community, repositories, metadata"
 
-          # Retry instead of committing a rate-limit error into the SVG
-          retries: 3
-          retries_delay: 300
-
-          # Languages: lighter analysis to avoid 429s
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
           plugin_languages_limit: 6
-          plugin_languages_indepth: no
           plugin_languages_analysis_timeout: 15
-          plugin_languages_categories: "markup, programming"
-
-          plugin_achievements: yes
-          plugin_achievements_threshold: C
 
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-
-          # PageSpeed: add a free Google API key as the PAGESPEED_TOKEN secret
-          plugin_pagespeed: yes
-          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-          plugin_pagespeed_url: https://lulamilemkhungela.github.io/portfolio.github.io/
-          plugin_pagespeed_screenshot: yes
