@@ -26,11 +26,11 @@
 
 ---
 
-## Profile Trophies & Milestones
+## 🏆 GitHub Profile Trophies
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=LulamileMkhungela&theme=onedark&column=6&margin-w=15&margin-h=15&no-reflection=true&no-frame=false" alt="GitHub Profile Trophies" width="100%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=LulamileMkhungela&theme=tokyonight&column=6&margin-w=15&margin-h=15&no-reflection=true&no-frame=false" alt="GitHub Profile Trophies" width="100%" />
   </a>
 </p>
 
@@ -78,7 +78,7 @@ class LulamileMkhungela:
 
 ---
 
-## Core Stack
+## ⚡ Core Stack & Tools
 
 *The tools that actually recur across real, shipped engagements.*
 
@@ -103,21 +103,36 @@ class LulamileMkhungela:
 
 ---
 
-## GitHub Analytics
+## 📊 GitHub Analytics & Developer Statistics
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/LulamileMkhungela/LulamileMkhungela/main/generated/metrics.svg"
-    alt="GitHub generated metrics — stats, languages, and achievements"
-    width="100%"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=LulamileMkhungela&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Lulamile's GitHub Stats" height="185" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LulamileMkhungela&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages" height="185" />
 </p>
 
-*Most of my production Angular and React work sits in private client repositories under NDA (AGSA, Eskom, Takeda, Toyota, Sasol, Vodacom).*
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LulamileMkhungela&theme=tokyonight" alt="GitHub Streak Stats" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LulamileMkhungela&theme=tokyonight&bg_color=1a1b26&color=7aa2f7&line=7dcfff&point=e0af68&area=true&hide_border=true" alt="Contribution Activity Graph" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LulamileMkhungela/LulamileMkhungela/main/generated/metrics.svg" alt="GitHub Metrics" width="100%" />
+</p>
 
 ---
 
-## Let's Connect
+## 🌟 Featured Projects
+
+- **[design-ops](https://github.com/LulamileMkhungela/design-ops)** — Design-system governance and component standards.
+- **[ServiceWaze](https://github.com/LulamileMkhungela/ServiceWaze)** — Frontend work focused on service orchestration and user-centred workflows.
+- **[arial](https://github.com/LulamileMkhungela/arial)** — Product-interface exploration and frontend design patterns.
+
+---
+
+## 📬 Let's Connect
 
 I'm actively open to **Product Designer**, **UX/UI Designer**, **UI Developer**, and **Frontend Developer** roles specialising in React and Angular — remote, relocation, or freelance.
 
@@ -136,17 +151,9 @@ I'm actively open to **Product Designer**, **UX/UI Designer**, **UI Developer**,
 ---
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/LulamileMkhungela/LulamileMkhungela/output/github-snake.svg"
-    alt="GitHub contribution snake animation"
-    width="100%"
-  />
+  <img src="https://raw.githubusercontent.com/LulamileMkhungela/LulamileMkhungela/output/github-snake.svg" alt="GitHub contribution snake animation" width="100%" />
 </p>
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1f2937,100:0e75b6&height=120&section=footer"
-    alt="footer banner"
-    width="100%"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1f2937,100:0e75b6&height=120&section=footer" alt="footer banner" width="100%" />
 </p>
