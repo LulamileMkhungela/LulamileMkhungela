@@ -26,12 +26,13 @@
 
 ---
 
-## 🏆 GitHub Profile Trophies
+## 📊 Developer Milestones & GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=LulamileMkhungela&theme=tokyonight&column=6&margin-w=15&margin-h=15&no-reflection=true&no-frame=false" alt="GitHub Profile Trophies" width="100%" />
-  </a>
+  <img src="https://img.shields.io/badge/Total_Commits-20,000+-7aa2f7?style=for-the-badge&logo=git&logoColor=white" alt="Total Commits" />
+  <img src="https://img.shields.io/badge/Public_Repositories-47-7dcfff?style=for-the-badge&logo=github&logoColor=white" alt="Public Repositories" />
+  <img src="https://img.shields.io/badge/Active_Years-2018--2026-e0af68?style=for-the-badge&logo=githubactions&logoColor=white" alt="Active Years" />
+  <img src="https://img.shields.io/badge/Achievements-Pull_Shark_Level_3-f7768e?style=for-the-badge&logo=github&logoColor=white" alt="Achievements" />
 </p>
 
 ---
@@ -103,24 +104,17 @@ class LulamileMkhungela:
 
 ---
 
-## 📊 GitHub Analytics & Developer Statistics
+## 📈 GitHub Metrics Showcase
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LulamileMkhungela&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Lulamile's GitHub Stats" height="185" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LulamileMkhungela&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages" height="185" />
+  <img
+    src="https://raw.githubusercontent.com/LulamileMkhungela/LulamileMkhungela/main/generated/metrics.svg"
+    alt="GitHub generated metrics — stats, languages, and achievements"
+    width="100%"
+  />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LulamileMkhungela&theme=tokyonight" alt="GitHub Streak Stats" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LulamileMkhungela&theme=tokyonight&bg_color=1a1b26&color=7aa2f7&line=7dcfff&point=e0af68&area=true&hide_border=true" alt="Contribution Activity Graph" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LulamileMkhungela/LulamileMkhungela/main/generated/metrics.svg" alt="GitHub Metrics" width="100%" />
-</p>
+*Most of my production Angular and React work sits in private client repositories under NDA (AGSA, Eskom, Takeda, Toyota, Sasol, Vodacom).*
 
 ---
 
